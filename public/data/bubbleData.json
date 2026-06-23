@@ -1,0 +1,159 @@
+{
+  "bubbles": [
+    {
+      "name": "Bella",
+      "count": 3824,
+      "rank": 1
+    },
+    {
+      "name": "Max",
+      "count": 3584,
+      "rank": 2
+    },
+    {
+      "name": "Charlie",
+      "count": 2854,
+      "rank": 3
+    },
+    {
+      "name": "Coco",
+      "count": 2636,
+      "rank": 4
+    },
+    {
+      "name": "Lola",
+      "count": 2470,
+      "rank": 5
+    },
+    {
+      "name": "Rocky",
+      "count": 2414,
+      "rank": 6
+    },
+    {
+      "name": "Lucy",
+      "count": 2149,
+      "rank": 7
+    },
+    {
+      "name": "Buddy",
+      "count": 2011,
+      "rank": 8
+    },
+    {
+      "name": "Luna",
+      "count": 1976,
+      "rank": 9
+    },
+    {
+      "name": "Lucky",
+      "count": 1950,
+      "rank": 10
+    },
+    {
+      "name": "Daisy",
+      "count": 1890,
+      "rank": 11
+    },
+    {
+      "name": "Teddy",
+      "count": 1720,
+      "rank": 12
+    },
+    {
+      "name": "Bailey",
+      "count": 1705,
+      "rank": 13
+    },
+    {
+      "name": "Princess",
+      "count": 1640,
+      "rank": 14
+    },
+    {
+      "name": "Toby",
+      "count": 1509,
+      "rank": 15
+    },
+    {
+      "name": "Chloe",
+      "count": 1499,
+      "rank": 16
+    },
+    {
+      "name": "Molly",
+      "count": 1403,
+      "rank": 17
+    },
+    {
+      "name": "Milo",
+      "count": 1361,
+      "rank": 18
+    },
+    {
+      "name": "Jack",
+      "count": 1266,
+      "rank": 19
+    },
+    {
+      "name": "Penny",
+      "count": 1226,
+      "rank": 20
+    },
+    {
+      "name": "Oliver",
+      "count": 1218,
+      "rank": 21
+    },
+    {
+      "name": "Mia",
+      "count": 1192,
+      "rank": 22
+    },
+    {
+      "name": "Lily",
+      "count": 1168,
+      "rank": 23
+    },
+    {
+      "name": "Oreo",
+      "count": 1158,
+      "rank": 24
+    },
+    {
+      "name": "Leo",
+      "count": 1151,
+      "rank": 25
+    },
+    {
+      "name": "Cooper",
+      "count": 1124,
+      "rank": 26
+    },
+    {
+      "name": "Sophie",
+      "count": 1112,
+      "rank": 27
+    },
+    {
+      "name": "Cookie",
+      "count": 1087,
+      "rank": 28
+    },
+    {
+      "name": "Ruby",
+      "count": 1085,
+      "rank": 29
+    },
+    {
+      "name": "Maggie",
+      "count": 1081,
+      "rank": 30
+    }
+  ],
+  "metadata": {
+    "min_count": 1081,
+    "max_count": 3824,
+    "total": 52463
+  }
+}
