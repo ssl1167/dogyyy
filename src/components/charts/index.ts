@@ -1,0 +1,8 @@
+export { default as NameBubbleChart } from './NameBubbleChart'
+export { default as GenderBiasChart } from './GenderBiasChart'
+export { default as BoroughCategoryChart } from './BoroughCategoryChart'
+export { default as BoroughTop20Chart } from './BoroughTop20Chart'
+export { default as CultureTrendsChart } from './CultureTrendsChart'
+export { default as SizeNameHeatmapChart } from './SizeNameHeatmapChart'
+export { default as PhoneticsChart } from './PhoneticsChart'
+export { default as HumanizationChart } from './HumanizationChart'
