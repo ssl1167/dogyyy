@@ -106,7 +106,7 @@ function App() {
             <div id="conclusion-title"><ChapterHeading kicker={conclusion.kicker} title={conclusion.title} /></div>
             <DogParade />
             <div className="article-column conclusion-copy"><Paragraphs items={conclusion.paragraphs} /></div>
-            <blockquote className="final-statement">在这个意义上，全城的狗叫什么名字，恰恰是这座城市最精准的情感温度计。它测量的，是我们对归属感的渴望，对美的共识，以及对一份无条件之爱的集体向往。</blockquote>
+            <blockquote className="final-statement">全城的狗叫什么名字，恰恰是这座城市最精准的情感温度计。它测量的，是我们对归属感的渴望，对美的共识，以及对一份无条件之爱的集体向往。</blockquote>
             <div className="returning-names" aria-hidden="true"><span>Max</span><span>Bella</span><span>Luna</span><span>Charlie</span><span>Coco</span></div>
           </section>
         </article>
