@@ -13,7 +13,7 @@ interface BoroughTop20Data {
 export default function BoroughTop20Chart() {
   const svgRef = useRef<SVGSVGElement>(null)
   const [data, setData] = useState<BoroughTop20Data | null>(null)
-  const { containerRef, width, height } = useChartSize({ aspectRatio: 1.85, minHeight: 340 })
+  const { containerRef, width, height } = useChartSize({ aspectRatio: 2.1, minHeight: 300 })
   const { isVisible } = useScrollAnimation(0.15, containerRef)
 
   useEffect(() => {
